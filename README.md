@@ -93,13 +93,10 @@ pytest test_app.py
 
 ---
 
-## 🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+## 🖼️ App Preview
 
----
+<img width="1364" height="624" alt="Screenshot 2025-08-05 143638" src="https://github.com/user-attachments/assets/6d2ce837-48dd-4b13-a5c2-07fdf1db575a" />
 
-## 📜 License
-This project is licensed under the MIT License.
 
 ---
 
